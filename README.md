@@ -7,7 +7,7 @@ A comprehensive shipping and logistics management system with a modern React fro
 
 ## System Architecture
 
-The system follows a modern three-tier architecture with secure integrations and external services:
+The system follows a modern three-tier architecture with secure integrations and external services
 
 ![Shipping & Logistics Management System Architecture](./Architecture-Diagram.png)
 
